@@ -1,0 +1,126 @@
+Day of year: 332
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 2 times.
+	Activity: Toileting - 3 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 4 times.
+	Activity: Snack - 1 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 333
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 3 times.
+	Activity: Toileting - 4 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 6 times.
+	Activity: Snack - 1 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 334
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 2 times.
+	Activity: Toileting - 6 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 8 times.
+	Activity: Snack - 2 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 335
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 2 times.
+	Activity: Grooming - 3 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 6 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 336
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 3 times.
+	Activity: Grooming - 4 times.
+	Activity: Sleeping - 1 times.
+	Activity: Spare_Time/TV - 7 times.
+	Activity: Snack - 1 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 337
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 3 times.
+	Activity: Toileting - 2 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 4 times.
+	Activity: Showering - 1 times.
+Day of year: 338
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 2 times.
+	Activity: Toileting - 4 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 6 times.
+	Activity: Snack - 2 times.
+	Activity: Showering - 1 times.
+Day of year: 339
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 5 times.
+	Activity: Grooming - 6 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 2 times.
+	Activity: Spare_Time/TV - 7 times.
+	Activity: Snack - 1 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 340
+	Activity: Breakfast - 1 times.
+	Activity: Grooming - 4 times.
+	Activity: Toileting - 3 times.
+	Activity: Sleeping - 1 times.
+	Activity: Spare_Time/TV - 5 times.
+	Activity: Snack - 1 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 341
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 6 times.
+	Activity: Grooming - 5 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 8 times.
+	Activity: Snack - 2 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
+Day of year: 342
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 1 times.
+	Activity: Grooming - 5 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 1 times.
+	Activity: Spare_Time/TV - 4 times.
+	Activity: Showering - 1 times.
+Day of year: 343
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 2 times.
+	Activity: Grooming - 5 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 2 times.
+	Activity: Spare_Time/TV - 6 times.
+	Activity: Showering - 1 times.
+Day of year: 344
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 1 times.
+	Activity: Grooming - 4 times.
+	Activity: Sleeping - 1 times.
+	Activity: Leaving - 2 times.
+	Activity: Spare_Time/TV - 3 times.
+	Activity: Showering - 1 times.
+Day of year: 345
+	Activity: Breakfast - 1 times.
+	Activity: Toileting - 2 times.
+	Activity: Grooming - 3 times.
+	Activity: Sleeping - 1 times.
+	Activity: Spare_Time/TV - 3 times.
+	Activity: Showering - 1 times.
+	Activity: Lunch - 1 times.
